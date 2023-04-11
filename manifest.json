@@ -1,0 +1,16 @@
+{
+    "name": "CS Bag",
+    "version": "1.0.0",
+    "description": "top used websites for CS student",
+    "manifest_version": 3,
+    "author": "Mohammad Yosef",
+    "icons":{"16":"hago.png"},
+    "action":{
+        "default_popup": "main.html",
+        "default_title": "CS Bag"
+    },
+    "permissions": [
+        "tabs"
+      ]
+    
+}
